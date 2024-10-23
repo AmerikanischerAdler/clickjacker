@@ -102,7 +102,7 @@ the command, substituting your own shell config file for ".bashrc"
 cd clickjacker
 ```
 
-4) Run Server:
+3) Run Server:
 
 *This will spin up a local backend server*
 
