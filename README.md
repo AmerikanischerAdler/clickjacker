@@ -19,15 +19,9 @@ Please Hack Responsibly. Only Hack With Permission. Or Don't Get Caught ;)
 
 ### Stack:
 
-**Type**: NPM
-
-**Structure**: HTML5
-
-**Style**: CSS3
-
-**Elements**: JavaScript
-
-**Routes**: Node.js
+| Type  | Structure | Style | Elements   | Routes  | 
+| :---: | :-------: | :---: | :--------: | :-----: | 
+| NPM   | HTML5     | CSS3  | JavaScript | Node.js | 
 
 ## Installation
 
